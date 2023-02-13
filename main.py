@@ -15,26 +15,26 @@ from pymongo import MongoClient
 from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 
 
-API_ID = os.environ.get("API_ID", None) 
-API_HASH = os.environ.get("API_HASH", None) 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-MONGO_URL = os.environ.get("MONGO_URL", None)
-BOT_USERNAME = os.environ.get("BOT_USERNAME") 
-UPDATE_CHNL = os.environ.get("UPDATE_CHNL")
-OWNER_ID = os.environ.get("OWNER_ID")
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
-SUPPORT_GRP = os.environ.get("SUPPORT_GRP")
-BOT_NAME = os.environ.get("BOT_NAME")
-START_IMG1 = os.environ.get("START_IMG1")
-START_IMG2 = os.environ.get("START_IMG2")
-START_IMG3 = os.environ.get("START_IMG3")
-START_IMG4 = os.environ.get("START_IMG4")
-START_IMG5 = os.environ.get("START_IMG5")
-START_IMG6 = os.environ.get("START_IMG6")
-START_IMG7 = os.environ.get("START_IMG7")
-START_IMG8 = os.environ.get("START_IMG8")
-START_IMG9 = os.environ.get("START_IMG9")
-START_IMG10 = os.environ.get("START_IMG10")
+API_ID = os.environ.get("API_ID",24315255) 
+API_HASH = os.environ.get("API_HASH", 129b292dc07c43347e3255c09e0a3e49) 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", 6137836765:AAEzCa9Swzl3Rk44R7Al3A3o6etJjuLpYOA) 
+MONGO_URL = os.environ.get("MONGO_URL", mongodb+srv://Musicbot58:93529352@cluster0.n6wscri.mongodb.net/?retryWrites=true&w=majority)
+BOT_USERNAME = os.environ.get("Khushi_chat_bot") 
+UPDATE_CHNL = os.environ.get("https://t.me/networkwcg")
+OWNER_ID = os.environ.get("5922967509")
+OWNER_USERNAME = os.environ.get("king82w")
+SUPPORT_GRP = os.environ.get("https://t.me/Worldchattinggroup0")
+BOT_NAME = os.environ.get("≛⃝𝐌𝐈𝐒𝐒 🇰𝐡𝐮𝐬𝐡𝐢 𓆩 𝐃𝐑𝐀𝐌𝐀 🇶𝗨𝗘𝗘𝗡๛🖤")
+START_IMG1 = os.environ.get("https://graph.org/file/760726999bdc5a3e2fd4f.jpg")
+START_IMG2 = os.environ.get("https://graph.org/file/3235b1a68ab2c3ad5efc9.jpg")
+START_IMG3 = os.environ.get("https://graph.org/file/ca3ea32256a91bb6ae91e.jpg")
+START_IMG4 = os.environ.get("https://graph.org/file/ca3ea32256a91bb6ae91e.jpg")
+START_IMG5 = os.environ.get("https://graph.org/file/70c214a03ad0b53d239e0.jpg")
+START_IMG6 = os.environ.get("https://graph.org/file/5ac33ec42659ff48c4b81.jpg")
+START_IMG7 = os.environ.get("https://graph.org/file/178a27531b99dfeffd70b.jpg")
+START_IMG8 = os.environ.get("https://graph.org/file/7ca38a38090ad9f3e16b0.jpg")
+START_IMG9 = os.environ.get("https://graph.org/file/c7bfbb70de2adbac859ee.jpg")
+START_IMG10 = os.environ.get("https://graph.org/file/898887597ec2472ffdd30.jpg")
 STKR = os.environ.get("STKR", "CAACAgQAAxkBAALRimNZXTpB8mhQbnAAAWAvCV4Ya1uHFQACnxEAAqbxcR57wYUDyflSISoE")
 STKR1 = os.environ.get("STKR1", "CAACAgQAAxkBAALRi2NZXUgjZCT775L5Nr0XrLbQ6XIpAAK_EQACpvFxHq2xh5JRVJNrKgQ")
 STKR2 = os.environ.get("STKR2", "CAACAgQAAxkBAALRjGNZXUs6YPggISBdtg4nXaU0vjNzAALqCwACbCIRU61ZQKi3F88DKgQ")
@@ -118,7 +118,7 @@ DEV_OP = [
     [
         InlineKeyboardButton(
             text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+            url=f"https://t.me/{Khushi_chat_bot}?startgroup=true",
         ),
     ],
     [
@@ -133,22 +133,22 @@ PNG_BTN = [
     [
          InlineKeyboardButton(
              text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
-             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+             url=f"https://t.me/{Khushi_chat_bot}?startgroup=true",
          ),
      ],
      [
          InlineKeyboardButton(
              text="✨ sᴜᴘᴘᴏʀᴛ ✨", 
-             url=f"https://t.me/{SUPPORT_GRP}",
+             url=f"https://t.me/{https://t.me/Worldchattinggroup0}",
          ),
      ],
 ]
 HELP_READ = f"""
-<u>**ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {BOT_NAME}**</u>
+<u>**ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {≛⃝𝐌𝐈𝐒𝐒 🇰𝐡𝐮𝐬𝐡𝐢 𓆩 𝐃𝐑𝐀𝐌𝐀 🇶𝗨𝗘𝗘𝗡๛🖤}**</u>
 <u>**ᴀʀᴇ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!**</u>
 **ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ:/**
 **──────────────**
-<b>||©️ @{OWNER_USERNAME}||</b>
+<b>||©️ @{king82w}||</b>
 """
 BACK = [
      [
