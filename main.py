@@ -20,10 +20,10 @@ API_HASH = os.environ.get("API_HASH",129b292dc07c43347e3255c09e0a3e49)
 BOT_TOKEN = os.environ.get("BOT_TOKEN", 6137836765:AAEzCa9Swzl3Rk44R7Al3A3o6etJjuLpYOA) 
 MONGO_URL = os.environ.get("MONGO_URL", mongodb+srv://Musicbot58:93529352@cluster0.n6wscri.mongodb.net/?retryWrites=true&w=majority)
 BOT_USERNAME = os.environ.get("Khushi_chat_bot") 
-UPDATE_CHNL = os.environ.get("https://t.me/networkwcg")
+UPDATE_CHNL = os.environ.get("https://t.me/BRANDED_KHUSHI")
 OWNER_ID = os.environ.get("5922967509")
-OWNER_USERNAME = os.environ.get("king82w")
-SUPPORT_GRP = os.environ.get("https://t.me/Worldchattinggroup0")
+OWNER_USERNAME = os.environ.get("B_R_A_N_D_E_D_K_I_N_G")
+SUPPORT_GRP = os.environ.get("https://t.me/BRANDED_WORLD")
 BOT_NAME = os.environ.get("≛⃝𝐌𝐈𝐒𝐒 🇰𝐡𝐮𝐬𝐡𝐢 𓆩 𝐃𝐑𝐀𝐌𝐀 🇶𝗨𝗘𝗘𝗡๛🖤")
 START_IMG1 = os.environ.get("https://graph.org/file/760726999bdc5a3e2fd4f.jpg")
 START_IMG2 = os.environ.get("https://graph.org/file/3235b1a68ab2c3ad5efc9.jpg")
@@ -139,7 +139,7 @@ PNG_BTN = [
      [
          InlineKeyboardButton(
              text="✨ sᴜᴘᴘᴏʀᴛ ✨", 
-             url=f"https://t.me/{https://t.me/Worldchattinggroup0}",
+             url=f"https://t.me/{https://t.me/BRANDED_WORLD}",
          ),
      ],
 ]
@@ -148,7 +148,7 @@ HELP_READ = f"""
 <u>**ᴀʀᴇ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!**</u>
 **ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ:/**
 **──────────────**
-<b>||©️ @{king82w}||</b>
+<b>||©️ @{B_R_A_N_D_E_D_K_I_N_G}||</b>
 """
 BACK = [
      [
