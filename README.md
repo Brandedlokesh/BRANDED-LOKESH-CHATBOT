@@ -26,7 +26,7 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 🙏
 - [❤️ 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 ✘ 𝗞𝗜𝗡𝗚 ❤️](https://github.com/WCGKING)
-- [『𝗕𝗥𝗔𝗡𝗗𝗘𝗗』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝗞𝗜𝗡𝗚𓄂⃝🔱 𝗕 ❤️ 𝗪](@B_R_A_N_D_E_D_K_I_N_G)
+- [『𝗕𝗥𝗔𝗡𝗗𝗘𝗗』| ͢ ̶ͥ ̶ ̶ͣ ͓ ̶ͫ 𝗞𝗜𝗡𝗚𓄂⃝🔱 𝗕 ❤️ 𝗪](https://t.me/B_R_A_N_D_E_D_K_I_N_G)
 - [𝗞𝗜𝗡𝗚 𝗫 𝗧𝗘𝗔𝗠 𝗕𝗥𝗔𝗡𝗗𝗘𝗗](https://t.me/BRANDED_KHUSHI)
 - [- ❤️‍🔥🇧𝐑𝐀𝐍𝐃𝐄𝐃 ✘ 🇼𝐎𝐑𝐋𝐃❤️‍🔥](https://t.me/BRANDED_WORLD)
 
