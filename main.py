@@ -1,5 +1,5 @@
-#Don't remove This Line From Here. @Dev_Arora_0981 | @DevArora0981
-#Github :- Devarora0981 | Devarora0987
+#Don't remove This Line From Here. @B_R_A_N_D_E_D_K_I_N_G | @BRANDED_KHUSHI
+#Github :- WCGKING | BRANDED_KHUSHI
 import requests
 import random
 import os
@@ -18,7 +18,7 @@ from motor.motor_asyncio import AsyncIOMotorClient as MongoCli
 API_ID = os.environ.get("API_ID",) 
 API_HASH = os.environ.get("API_HASH", ) 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", ) 
-MONGO_URL = os.environ.get("MONGO_URL", mongodb+srv://Musicbot58:93529352@cluster0.n6wscri.mongodb.net/?retryWrites=true&w=majority)
+MONGO_URL = os.environ.get("MONGO_URL", )
 BOT_USERNAME = os.environ.get("Khushi_chat_bot") 
 UPDATE_CHNL = os.environ.get("https://t.me/BRANDED_KHUSHI")
 OWNER_ID = os.environ.get("5922967509")
@@ -144,7 +144,7 @@ PNG_BTN = [
      ],
 ]
 HELP_READ = f"""
-<u>**ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {≛⃝𝐌𝐈𝐒𝐒 🇰𝐡𝐮𝐬𝐡𝐢 𓆩 𝐃𝐑𝐀𝐌𝐀 🇶𝗨𝗘𝗘𝗡๛🖤}**</u>
+<u>**ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {khushi lokesh}**</u>
 <u>**ᴀʀᴇ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!**</u>
 **ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ:/**
 **──────────────**
@@ -436,7 +436,7 @@ async def restart(client, m: Message):
 async def get_st(_, msg: Message):
     users = len(await get_served_users())
     chats = len(await get_served_chats())
-    await msg.reply_photo(photo="https://te.legra.ph/file/2d5b054acddf865d4d83e.png",
+    await msg.reply_photo(photo="https://te.legra.ph/file/7589c3c60d252652a6089.jpg",
                           caption=f"""ᴛᴏᴛᴀʟ sᴛᴀᴛs ᴏғ {BOT_NAME}
           ➻ **ᴄʜᴀᴛs :** {chats}
           ➻ **ᴜsᴇʀs :** {users}"""
@@ -697,5 +697,5 @@ async def vickprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Wᴇ_ʀғʀɪᴇɴᴅs ʙɪᴛᴄʜ!!")      
+print(f"{BOT_NAME} ɪs ᴀʟɪᴠᴇ! ɴᴏᴡ ғᴜᴄᴋ ᴏғғ! ᴀɴᴅ ɢᴏ ᴛᴏ @Khushi_chat_bot!!")      
 bot.run()
