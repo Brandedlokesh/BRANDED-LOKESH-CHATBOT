@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center">
+  <img src="https://te.legra.ph/file/2e2f78610814092d61103.jpg">
 # ᴀʙᴏᴜᴛ
 <i>ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ.</i>
 
