@@ -18,7 +18,7 @@ khushilokeshʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ.
 <p align="center"><a href="https://t.me/Khushi_chat_bot"> <img src="https://img.shields.io/badge/CHECK-Demo%20Robot-black?style=for-the-badge&logo=Telegram" width="220" height="39"/></a></p>
 
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api/pin/?WCGKING&repo=khusilokesh&theme=chartreuse-dark"></a>
+<a href="https://github.com/WCGKING"><img src="https://github-readme-stats.vercel.app/api/pin/WCGKING&repo=khusilokesh&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
 <p align="center"><a href="https://t.me/BRANDED_WORLD"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
